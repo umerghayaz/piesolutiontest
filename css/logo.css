@@ -1,0 +1,94 @@
+.body{
+    background-color: transparent linear-gradient(180deg, #EEF5FF 0%, #FFFFFF 100%) 0% 0% no-repeat padding-box;
+}
+.logo {
+    padding-left: 180px;
+    width: 20px;
+  }
+  .LOGOCOLOR{
+    color: #4ED2B5;
+  }
+  .button{
+    color: transparent;
+    padding-right: 750px;
+  
+  }
+  .b{
+    width:  200px;
+    height: 48px;
+    cursor: pointer;
+            border:black;
+            background-color: transparent;
+           
+            color: black;
+            font-size: 1em;
+            box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+  }
+  .t{
+    padding-right:1%;
+  }
+  .bgc{
+    /* width: 50px; */
+    background-color: black;
+	border-radius: 790px;
+    width:4%;height:235px;
+
+    margin-bottom: 80px;}
+
+  .ci{
+color: white;
+ 
+  }
+  .cont {
+    display: flex;
+    flex-direction: row;
+    
+
+
+  }
+  .sidebar {
+    display : flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+    margin-top: 150px;
+
+  }
+  .w3-content {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  
+   
+  
+  }
+  .mySlides {
+
+    padding: 40px;
+    width: 100px;
+    
+  }
+  .text-block {
+    position: absolute;
+    top: 250px;
+    left: 40px;
+    color: black;
+    padding-left: 80px;
+    padding-right: 70px;
+  }
+  .gap {
+
+    padding: 10px;
+
+  }
+.bcol{
+    width:  200px;
+    height: 48px;
+    cursor: pointer;
+            border:black;
+            background-color: #4ED2B5;
+           color: #4ED2B5;
+            color: black;
+            font-size: 1em;
+            box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+}
